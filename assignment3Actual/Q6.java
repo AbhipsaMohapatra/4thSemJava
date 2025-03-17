@@ -22,7 +22,7 @@ public class Q6 {
 			for(int e:arr) {
 				System.out.print(e+" ");
 			}
-			System.out.println("Enter the elemt you want to search");
+			System.out.println("Enter the element you want to search");
 			int n = sc.nextInt();
 			System.out.println("Element present in array "+Search(arr, n));
 			int ind = sc.nextInt();

@@ -23,7 +23,7 @@ public class Q1 {
 	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Q1 obj = new Q1("Main obj");
 		obj.show();
 //		obj.show();

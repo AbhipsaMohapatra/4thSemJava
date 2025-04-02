@@ -28,3 +28,10 @@ public class Q13 {
 	}
 
 }
+
+//output
+//Enter the name of the file you want to delte
+//source.txt
+//Successfully deleated file source.txt
+
+

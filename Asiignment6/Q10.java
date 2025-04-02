@@ -41,3 +41,11 @@ public class Q10 {
 	}
 
 }
+
+//output
+//Diary Entries
+//2025-03-28 16:37:42
+//Dear Diary
+//2025-03-28 17:23:00
+//"Hello world"
+

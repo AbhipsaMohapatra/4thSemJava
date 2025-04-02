@@ -53,3 +53,10 @@ public class Q15 {
 	}
 
 }
+//output
+//Enter the current file name
+//larry.txt
+//Enter the new file name
+//Joy.txt
+//File renamed from larry.txt to Joy.txt . 
+

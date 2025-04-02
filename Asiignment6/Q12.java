@@ -40,3 +40,26 @@ public class Q12 {
 	}
 
 }
+//output
+//ApplicationException1
+//Asiignment6
+//assignment1
+//assignment3
+//assignment3Actual
+//Assignment4
+//basics
+//DataStructures
+//ErrorHandling
+//ErrorHandling_Application
+//ErrorHandling_Bank
+//GarbageCollections
+//genericExtraQuestions
+//Generics
+//Iterator
+//MapExtraQuestion
+//newAssignment2
+//oops
+//questions
+//static_andfinal
+//Strings
+//

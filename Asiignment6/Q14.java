@@ -47,3 +47,12 @@ public class Q14 {
 	}
 
 }
+//output
+//ener the source file path 
+//source.txt
+//enter the destination file path
+//destination.txt
+//Destination file already exists wanna overwrite (yes/no)
+//yes
+//File copied successfully
+//

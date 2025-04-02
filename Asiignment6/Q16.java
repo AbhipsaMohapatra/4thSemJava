@@ -57,3 +57,21 @@ public class Q16 {
 	}
 
 }
+//output
+//Enter file name 
+//Joy.txt
+//File metadata : 
+//Name: Joy.txt
+//Path: Joy.txt
+//Absolute Path C:\Users\E 555\Desktop\Abhipsa 4thSem Java\Lab1OOP\Joy.txt
+//Parent null
+//Exists true
+//is  file true
+//is directory false
+//is hidden false
+//length 25
+//Last modified 2025-03-31 10:57:23
+//Readable true
+//Writable : true
+//Executable true
+//

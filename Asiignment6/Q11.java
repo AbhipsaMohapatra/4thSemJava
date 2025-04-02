@@ -47,3 +47,10 @@ public class Q11 {
 	}
 
 }
+//output
+//Enter your diary entry:
+//Hello diary
+//The file 'diary2.txt' already exists will not be overwritten. Do you want to append to it ?(Y/N)
+//Y
+//Diary entry added successfully
+

@@ -17,7 +17,7 @@ public class Q9 {
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Enter your diary entry");
 		String entryString = scanner.nextLine();
-		File file= new File("C:\\Users\\E 555\\Desktop\\diary2.txt");
+		File file= new File("C:\\Users\\E 555\\Desktop\\diary5.txt");
 		try {
 			if(file.exists()) {
 				throw new IOException("The file diary.txt already exists");
@@ -46,3 +46,9 @@ public class Q9 {
 	}
 
 }
+//output
+//Enter your diary entry
+//Hello diary
+//The file diary.txt created successfully
+//Diary entry added successfullt
+

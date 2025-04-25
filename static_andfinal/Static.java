@@ -17,3 +17,8 @@ public class Static {
 	}
 
 }
+
+//output
+// static
+// 25
+

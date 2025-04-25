@@ -1,4 +1,5 @@
 package oops;
+//RUNTIME POLYMORPHISM
 class Animal2{
 	public void displayInfo() {
 		System.out.println("I am an animal");

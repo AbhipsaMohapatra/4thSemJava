@@ -1,12 +1,10 @@
 package Assignment7Actual;
+
 import java.util.function.Function;
 
-public class Q5 {
+public class Q5New {
 	public static Function<Integer,Integer> getSqauredFunction(){
-		return (Integer n) -> 
-			n*n;
-		
-//		return (Integer  x)  - > x * x ;
+		return (Integer  x)  - > x * x ;
 	}
 	
 
@@ -20,5 +18,6 @@ public class Q5 {
 		}
 
 	}
+
 
 }

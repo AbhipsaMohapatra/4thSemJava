@@ -5,6 +5,18 @@
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!-- bean definitions here -->
+    <bean class="p2.Student" id="stdId">
+		<property name="name" value="Mayur Ramgir"></property>
+		<property name="rollno" value="23"></property>
+		<property name="email" value="abc@gmail.com"></property>
+		
+	</bean>
+	 <bean class="p2.Student" id="stdId2">
+		<property name="name" value="Abhipsa"></property>
+		<property name="rollno" value="20"></property>
+		<property name="email" value="abhi@gmail.com"></property>
+		
+	</bean>
   
 
 </beans>

@@ -6,7 +6,7 @@ public class Q3 {
 		this.name=n;
 	}
 	@Override
-	public void finalize() throws Throwable{
+	protected void finalize() throws Throwable{
 		System.out.println("The Garbage collected is "+ this.name);
 	}
 
